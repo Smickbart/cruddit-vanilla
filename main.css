@@ -1,0 +1,17 @@
+body {
+	
+}
+
+.container {
+	margin: 0 auto;
+	padding: 10px;
+	width: 90%;
+	background: LightBlue;
+}
+
+.card {
+	height: 300px;
+	width: 500px;
+	background: Azure;
+	margin: 10px auto;
+}
